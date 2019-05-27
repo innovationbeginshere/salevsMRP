@@ -1,0 +1,56 @@
+Code No,Description,Size,MRP,Purchase ,GST,Total,SaleValue
+AD-1,Friends A. Diaper Easy,M,450,234,12,262.08,310
+AD-2,Friends A. Diaper Easy,L,475,256,12,286.72,330
+AD-3,Friends A. Diaper Easy,XL,500,261,12,292.32,340
+AD-4,Comfrey A. Diaper,M,430,245,12,274.4,325
+AD-5,Comfrey A. Diaper,L,450,255,12,285.6,335
+AD-6,Comfrey A. Diaper,XL,500,285,12,319.2,370
+AD-7,B-Fit A. Diaper Economy,M,375,178,12,199.36,250
+AD-8,B-Fit A. Diaper Economy,L,425,189,12,211.68,260
+AD-9,B-Fit A. Diaper Economy,XL,450,211,12,236.32,285
+AD-10,Dryfeel A. Daper,M,600,165,,190,240
+AD-11,Dryfeel A. Daper,L,600,170,,200,250
+AD-12,Dryfeel A. Daper,XL,600,180,,210,260
+AD-13,Seni A. Diaper-10,M,400,201,12,225.12,275
+AD-14,Seni A. Diaper-30,M,1350,580,12,649.6,750
+AD-15,Seni A. Diaper-10,L,450,214,12,239.68,290
+AD-16,Seni A. Diaper-30,L,1300,633,12,708.96,800
+AD-17,Seni A. Diaper 30,XL,1400,696,12,779.52,880
+AD-18,Seni Stand. A. Diaper 10,XL,614,232,12,259.84,310
+AD-19,Dignity A. Diaper,M,572,223,12,249.76,280
+AD-20,Dignity A. Diaper,L,584,241,12,269.92,310
+AD-21,Dignity A. Diaper,XL,595,255,12,285.6,325
+AD-22,BonBon AD -10,M,450,169.64,12,189.9968,240
+AD-23,BonBon AD-10,L,500,178.57,12,199.9984,250
+AD-24,BonBon AD-10,XL,550,187.5,12,210,260
+ADP-1,Friends A. Diaper Pants 10,L-XL,600,389,12,435.68,485
+ADP-5,B-Fit A. Diaper Pants 10,M,500,250,12,280,340
+ADP-6,B-Fit A. Diaper Pants 10,L,550,273,12,305.76,350
+ADP-7,AVM Pants 10,XL,650,269,12,301.28,360
+ADP-8,Dryfeel A. Diaper Pants Pre.10,M,475,,,260,310
+ADP-9,Dryfeel A. Diaper Pants Pre.10,L,525,,,270,320
+ADP-10,Dryfeel A. Diaper Pants Pre.10,XL,575,,,280,330
+ADP-11,Liberty A. Diaper Pants Eco,M,500,205,12,229.6,300
+ADP-12,Liberty A. Diaper Pants Eco,L,550,218,12,244.16,310
+ADP-13,Liberty A. Diaper Pants Eco,XL,600,236,12,264.32,320
+ADP-14,Liberty A. Diaper Pants Prem,M,500,,,,340
+ADP-15,Liberty A. Diaper Pants Prem,L,520,,,,350
+ADP-16,Liberty A. Diaper Pants Prem,XL,530,,,,360
+ADP-17,Comfrey A.Diaper Pants Easy,XXL,650,360,12,403.2,360
+UP-1,Friends Under Pad Prem.10,L,600,133.49,18,157.52,300
+UP-2,Friends Under Pad Classic 10,L,425,145,18,171.1,330
+CR-1,Zenith Cotton Roll,400gm,330,85,,,180
+DM-1,Star Disposable Mask(,,1500,800,,,800
+HG-1,Hand Gloves Comfrey-100,M,800,150,12,168,250
+HG-2,Hand Gloves Pratham,M,450,,,,300
+WS-2,Walking Stick Visco ,L-Tripod,908,545,,,700
+WS-2,Walking Stick Visco ,L-Quadra,972,583,,,750
+WS-3,Walking Stick Visco ,U-Single,575,345,,,450
+,Walking Stick Radient ,L-Quadra,825,462,,,570
+,Ryder Karma Sticl,L-Tripod,825,495,,,650
+WS-4,Orthotics Stick,L-Single,428,258,,,330
+WK-1,Walker Visco,Wheel,2319,1685,,,2030
+WK-2,Walker Visco ,Simple,2219,1585,,,1920
+,Radient Walker,,1650,700,,,910
+,Orthotics Walker,,1713,,,,920
+,Orizon Walker,W1,1650,990,,,1300
